@@ -6,6 +6,8 @@ The Friend Finder application is basically a dating app, but for makin' new budd
 
 This project was created as an assignment for the Coding Bootcamp at Penn.
 
+Access the app through Heroku here https://friendfinderlpm.herokuapp.com
+
 
 Technologies Used
 
